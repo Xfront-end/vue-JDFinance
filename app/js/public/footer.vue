@@ -44,7 +44,7 @@ export default {
   @import "../../css/element.scss";
   .panel{
     @include panel;
-    margin-bottom: 168px;
+    margin-bottom: 100px!important;
     &>h4{
       display: none;
     }
