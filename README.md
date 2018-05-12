@@ -11,8 +11,8 @@
 ### 安装
 
 ```shell
-git clone https://github.com/cucygh/JDFinance.git
-cd JDFinance
+git clone https://github.com/wangjit/vue-JDFinance.git
+cd vue-JDFinance
 npm install
 ```
 
