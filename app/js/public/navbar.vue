@@ -23,7 +23,7 @@
           <p>众筹</p>
         </router-link>
       </li><li>
-        <router-link :to="{ name: 'home'}">
+        <router-link :to="{ name: 'download'}">
           <img src="//img12.360buyimg.com/jrpmobile/jfs/t3451/188/644771475/2428/800d7cb7/580f2435Nbfaa8055.png?width=66&height=66" alt="">
           <p>我的</p>
         </router-link>
